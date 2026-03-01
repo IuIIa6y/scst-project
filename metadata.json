@@ -1,0 +1,8 @@
+
+{
+  "name": "SCST Project",
+  "description": "A high-performance currency converter with multi-currency tracking, historical analytics, price alerts, and intelligent insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
